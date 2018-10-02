@@ -1,0 +1,5 @@
+ccxt==1.17.187
+numpy==1.15.1
+pandas==0.23.4
+peewee==3.6.4
+requests==2.19.1
